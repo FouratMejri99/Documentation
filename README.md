@@ -6,22 +6,22 @@ This is a living document and will be updated continuously as I progress.
 ---
 ## Recommended Books
 
-- **You Don’t Know JS Yet (Series)** – Kyle Simpson  
-- **Eloquent JavaScript** – Marijn Haverbeke  
-- **Clean Code** – Robert C. Martin  
-- **The Pragmatic Programmer** – Andrew Hunt & David Thomas  
-- **Designing Data-Intensive Applications** – Martin Kleppmann  
-- **Node.js Design Patterns** – Mario Casciaro  
-- **Refactoring UI** – Adam Wathan & Steve Schoger  
+- You Don’t Know JS Yet (Series)** – Kyle Simpson  
+- Eloquent JavaScript** – Marijn Haverbeke  
+- Clean Code** – Robert C. Martin  
+- The Pragmatic Programmer** – Andrew Hunt & David Thomas  
+- Designing Data-Intensive Applications** – Martin Kleppmann  
+- Node.js Design Patterns** – Mario Casciaro  
+- Refactoring UI** – Adam Wathan & Steve Schoger  
 
 ---
 
 ## Recommended Articles
 
-- **MDN Web Docs – JavaScript Guide**  
-- **JavaScript Info** (javascript.info)  
-- **System Design Primer** (GitHub)  
-- **12-Factor App Methodology**  
+- MDN Web Docs – JavaScript Guide**  
+- JavaScript Info** (javascript.info)  
+- System Design Primer** (GitHub)  
+- 12-Factor App Methodology**  
 
 ---
 
