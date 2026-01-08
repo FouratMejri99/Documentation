@@ -1,4 +1,4 @@
-## An Analytical Evaluation of Clean Code Quality in AI-Generated Code
+## An Analytical Evaluation of Clean Code Quality in AI Generated Code
 
 Due to The rapid advancement of artificial intelligence, particularly large language models, has significantly transformed the software development process. AI-powered tools are now capable of generating functional code across multiple programming languages, assisting developers in tasks ranging from prototyping to full-scale application development. While these systems have demonstrated strong performance in producing syntactically correct and logically valid code, an important challenge remains largely underexplored: the quality of AI-generated code in terms of cleanliness, maintainability, and long-term usability.
 
